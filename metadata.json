@@ -1,0 +1,5 @@
+{
+  "name": "AI Financial Analyst",
+  "description": "An AI-powered stock analyst that generates fictional but plausible market analysis and reports for any given stock ticker using the Gemini API.",
+  "requestFramePermissions": []
+}
